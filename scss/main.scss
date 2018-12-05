@@ -1,0 +1,23 @@
+@import "reset";
+
+
+header {
+    border-bottom: 2px solid #f43699;
+}
+
+main {
+    box-sizing: border-box;
+    height: 80vh;
+    width: 99vw;
+    background: #1e1f67;
+    color: #FFFFFF;
+}
+
+.test{
+    .content{
+        color:red;
+    }
+    .test3{
+        font-size: 10px;
+    }
+}
